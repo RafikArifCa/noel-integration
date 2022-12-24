@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class ReactSpringApplicationTests {
-	public static Logger log = LoggerFactory.getLogger(ReactSpringApplication.class);
+	public static Logger log = LoggerFactory.getLogger(ReactSpringApplicationTests.class);
 
 	@Test
 	void contextLoads() {
